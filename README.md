@@ -70,7 +70,7 @@ streamlit run app.py
 
 ## App Preview
 
-(https://github.com/abinesh8838/House_price_streamlit/blob/main/App%20Preview.png)
+![App Preview](https://github.com/abinesh8838/House_price_streamlit/blob/main/App%20Preview.png)
 
 ## Example Output
 
